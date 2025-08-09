@@ -69,15 +69,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sgtardnsyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-   </p>
-   <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sgtardnsyah&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sgtardnsyah&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sgtardnsyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </p>
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgtardnsyah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top   Languages" />
-</p>
+  </p>
 </div>
 
 ---
