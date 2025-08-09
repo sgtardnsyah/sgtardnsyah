@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+
 
 <p align="center">
   Junior Web & Data Dev — TypeScript • Python • SQL • Scraping
