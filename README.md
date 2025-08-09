@@ -1,10 +1,5 @@
 ![Header](./github-header-banner1.png)
 
-
-<p align="center">
-  Junior Web & Data Dev | Python • SQL • TypeScript • Automation • Scraping • Data Visualization
-</p>
-
 ---
 
 ## 🌐 Socials
