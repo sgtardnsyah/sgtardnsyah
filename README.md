@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Junior Web & Data Dev — TypeScript • Python • SQL • Scraping
+  Junior Web & Data Dev | Python • SQL • TypeScript • Automation • Scraping
 </p>
 
 ---
